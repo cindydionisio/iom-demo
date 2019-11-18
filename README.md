@@ -11,8 +11,8 @@ Maven 3.0.0 or later
 
 ### Installing
 
-Copy the iomdemo folder to your Spring/bin dir
-For first time running, run:
+Copy/clone this entire folder to your Spring/bin dir
+For first time running:
 ```
 mvn install
 ```
